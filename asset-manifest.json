@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/discipline/static/js/main.f257afcb.js",
+    "index.html": "/discipline/index.html",
+    "main.f257afcb.js.map": "/discipline/static/js/main.f257afcb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f257afcb.js"
+  ]
+}

@@ -39,23 +39,23 @@
  
  .photo2{
 
-  background-size:30%;
+  background-size:20%;
 
 }
 
 .photo3{
   
-  background-size:40%;
+  background-size:25%;
 
 }
 .photo4{
   
-  background-size:65%;
+  background-size:40%;
 
 }
 .photo5{
   
-  background-size:63%;
+  background-size:40%;
 
 }
 }
@@ -157,14 +157,14 @@
       font-family: 'Nova Flat';
       text-align: left ;
       color: #fdd139;
-      font-size: 7px;
+      font-size: 5px;
       
     }
     .y{
       font-family: 'Nova Flat';
       text-align: left ;
       color: #fdd139;
-      font-size:10px;
+      font-size:6px;
       
     }
 }

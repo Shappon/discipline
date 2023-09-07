@@ -49,7 +49,7 @@ const View4 = () => {
     </thead>
     <tbody className="yt" >
        <tr>
-        <td className="yu">Création d'une application web de jeu a étapes pour la découverte de la ville de dijon.</td>
+        <td className="yu">Création d'une application web de jeu à étapes pour la découverte de la ville de Dijon.</td>
         <td className= " pccomp " ><span className= " pccomp " class="badge bg-info badged">php/js/sql</span><span class="badge bg-info badged">Laravel</span><span class="badge bg-info badged">BTS/Ville de Dijon</span></td>
          <td className= " pccomp " ></td>
         <td className="v2"> </td>
@@ -86,7 +86,7 @@ const View4 = () => {
         <td className="eca2" ></td>
       </tr>
       <tr>
-        <td className="yu" >Création d'une application de simplification de tâche pour entreprises (Monde infirmier).</td>
+        <td className="yu" >Création d'une application de simplification de tâche pour les infirmières.</td>
         <td className= " pccomp " ></td>
         <td className= " pccomp " ></td>
         <td className="eca2" ></td>

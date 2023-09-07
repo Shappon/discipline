@@ -61,10 +61,9 @@ const View3 = () => {
 <div><div className="txtdroite animate__animated  animate__fadeIn" value={text} onChange={handleChange} style={{display:element=== 0 ? "" :"none"}}> 
 
    
-À l'obtention de mon bts j'ai acquis des compétences en programmationwebet mobile (Html,CSS,Js,php,C++,python).
-Durant celui-ci, j'ai pu réaliser en équipe ou individuellement des projets a but professionnel ou de l'ordre du didactique(laravel,WP,React).
-Ce étant en alternance me permettant d'intégrer une structure proffessionel en développement web et donc de l'éxpérience.
-
+À l'obtention de mon BTS, j'ai acquis des compétences en programmation web et mobile (Html,CSS,Js,php,C++,python).
+Durant celui-ci, j'ai pu réaliser en équipe ou individuellement des projets a but professionnel ou de l'ordre du didactique (laravel,WP,React).
+Tout ceci étant en alternance me permettant d'intégrer une structure professionnelle en développement web et donc de l'expérience.
 </div><div className="txtgauche photo5 animate__animated  animate__fadeIn" value={text} onChange={handleChange} style={{position: 'fixed', left: 50 ,bottom:75 ,display:element=== 0 ? "" :"none"}}> 
 
 
@@ -74,10 +73,8 @@ Ce étant en alternance me permettant d'intégrer une structure proffessionel en
    
    
   
- 
-  A la suite de ce diplome, créer des applications pour des entreprises ou des particuliers qui ont pour but d'apporter un apport estevenuun but pour moi.
-  Néanmoins j'estime que je devrais acquerir toujours plus de connaissances et d'éxperience avant de pouvoir proposé des solutions impactante et productives.
-  
+À la suite de ce diplôme, créer des applications pour des entreprises ou des particuliers qui ont pour but d'apporter un apport est devenu un but pour moi.
+Néanmoins, j'estime que je devrais acquérir toujours plus de connaissances et d'expérience avant de pouvoir proposé des solutions efficaces et productives.
 
 
  </div><div className="txtgauche photo2 animate__animated  animate__fadeIn" value={text} onChange={handleChange} style={{position: 'fixed', bottom: 120, left: 70,display:element=== 1 ? "" :"none"}}> 
@@ -90,8 +87,8 @@ Ce étant en alternance me permettant d'intégrer une structure proffessionel en
    
    
  Je choisis de m’améliorer physiquement et mentalement par le biais du sport, est une façon pour moi qui m'amène à être constant dans mon travail et dans ma vie.
- Par le biais de cette activité annexe j'éspere afiné ma discipline et mon assiduité. 
- </div><div className="txtgauche photo3 animate__animated  animate__fadeIn" value={text} onChange={handleChange} style={{position: 'fixed', left: 70 ,bottom:80,display:element=== 2 ? "" :"none"}}> 
+ Par le biais de cette activité annexe, j'espère affiner ma discipline et mon assiduité.
+  </div><div className="txtgauche photo3 animate__animated  animate__fadeIn" value={text} onChange={handleChange} style={{position: 'fixed', left: 70 ,bottom:80,display:element=== 2 ? "" :"none"}}> 
 
 
 </div></div>
@@ -100,8 +97,10 @@ Ce étant en alternance me permettant d'intégrer une structure proffessionel en
    
    
  Dorénavant, je réalise des projets personnels et effectue une veille technologique régulière en rapport avec le développement d'applications.
- Je travail en parralléle et essaie de continuer mes etudes afin d'acquérir de l'expérience.
- 
+
+ Je travaille en parallèle et essaie de continuer mes études afin d'acquérir de l'expérience.
+
+
  </div><div className="txtgauche photo4 animate__animated  animate__fadeIn" value={text} onChange={handleChange} style={{position: 'fixed', left: 70,bottom:100 ,display:element=== 3 ? "" :"none"}}> 
 
 
